@@ -21,7 +21,6 @@
 
 <br>
 <br>
-<br>
 
 <h2>🧰 Ajustes e melhorias:</h2>
 
