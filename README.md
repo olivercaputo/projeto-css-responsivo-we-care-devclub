@@ -2,9 +2,9 @@
 
 <h3>Projeto We Care - CSS Responsivo - DevClub.</h3>
 
-<img align="left" height="400px" src="./img/template-readme-01.jpg" alt="interface-we-care"/>
+<img align="left" height="350px" src="./img/template-readme-01.jpg" alt="interface-we-care"/>
 
-<img height="400px" src="./img/template-readme-02.jpg" alt="interface-we-care"/>
+<img height="350px" src="./img/template-readme-02.jpg" alt="interface-we-care"/>
 
 <h2>📝 Descrição do Projeto:</h2>
 
